@@ -1,0 +1,10 @@
+hash: 4b02179ddef5517f3dfc1c345d7b50bc4d5eeccc0ebe6dda678827d00c7fee0e
+updated: 2016-04-22T21:47:46.56838413-07:00
+imports:
+- name: github.com/arschles/flexwork
+  version: 34f0f3d81f0b8280fbf035969650317f77f7f493
+- name: github.com/google/go-github
+  version: 81ea1e5cb324404cd87c66d2a1050c7c31a2121b
+  subpackages:
+  - github
+devImports: []
